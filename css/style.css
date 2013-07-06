@@ -15,8 +15,12 @@
 	height: 24px;
 } 
 .selected {
-	background: #984515;
+	background: #29C9FC;
 }
 .hovered {
-	background: #444;
+	/*border: #0D64FF;*/
+	background: rgba(248, 239, 16, 0.5);
+}
+.neighbor {
+	background: rgba(241, 0, 0, 0.72);
 }
